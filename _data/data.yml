@@ -65,17 +65,7 @@ education:
           - Assembler programming
           - Logic
           - Software engineering
-
-    - degree: Degree in Environmental Sciences
-      university: Universitat Autònoma de Barcelona
-      time: 2011 - 2015
-      details: |
-       Multidisciplinary degree where subjects such as nuclear physics, chemistry, edaphology, geology, statistics, economics or law are studied, always focused on the care and defence of the environment. 
-       on the care and defence of the environment. 
-          - Física
-          - Estadística
-          - Matemáticas
-          - Derecho
+          
     - degree: Higher Level Training Cycle in Multiplatform Application Development
       university: Institut Sabadell
       time: 2016 - 2018
@@ -88,7 +78,19 @@ education:
           - Laravel
           - Ionic
           - Android Developer
-          - C
+          - C 
+
+    - degree: Degree in Environmental Sciences
+      university: Universitat Autònoma de Barcelona
+      time: 2011 - 2015
+      details: |
+       Multidisciplinary degree where subjects such as nuclear physics, chemistry, edaphology, geology, statistics, economics or law are studied, always focused on the care and defence of the environment. 
+       on the care and defence of the environment. 
+          - Física
+          - Estadística
+          - Matemáticas
+          - Derecho
+
 experiences:
     - role: Backend developer
       time:  December 2020 - Current
