@@ -142,21 +142,21 @@ projects:
     intro: >
       In this section I list some of my projects. Most of them are courses from other programmers, proofs of concept or class projects. 
     assignments:
-      - title: Docker con API-Rest y CI/CD
+      - title: Docker with API-Rest y CI/CD
         link: "https://github.com/adrianCalventos/dockerizeApiRest"
-        tagline: "Docker con una API-Rest con NodeJs para el Backend, BBDD MongoDB y react para el frontend. Se desplegará con Heroku"
+        tagline: "Docker with an API-Rest with NodeJs for the Backend, MongoDB DB and react for the frontend. It will be deployed with Heroku"
 
-      - title: Blog en laravel
+      - title: Blog in laravel
         link: "https://github.com/adrianCalventos/blog_laravel"
-        tagline: "Proyecto de PHP con framework laravel creado para clase. Esta organizado con estructura MVC y se presenta como un blog con login y posibilidad de crear nuevas entradas, editar y borrar."
+        tagline: "PHP project with laravel framework created for class. It is organised with MVC structure and is presented as a blog with login and possibility to create new entries, edit and delete."
 
-      - title: API-Rest Sencilla
+      - title: API-Rest Simple
         link: "https://github.com/adrianCalventos/apiRest-with-node-express"
-        tagline: "App de libros que consiste en una API-Rest."
+        tagline: "Book App consisting of an API-Rest."
 
-      - title: Aplicacion en Spring Boot
+      - title: Application in Spring Boot
         link: "https://github.com/adrianCalventos/spring-bookApiRest-"
-        tagline: "Aplicación API-Rest con mapeo en hibernate, repositories de Spring para obtener entidades, una entidad DTO que devolver a frontend con su casteo en el endpoint. "
+        tagline: "API-Rest application with hibernate mapping, Spring repositories to get entities, a DTO entity to return to frontend with its matching in the endpoint."
 
 
 publications:
@@ -182,7 +182,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Tecnologias &amp; competencias
+    title: Technologies &amp; competences
 
     toolset:
       - name: Python
