@@ -101,11 +101,11 @@ experiences:
           - jsp
           - Weblogic
     - role: Backend developer
-      time: septiembre 2018 -  julio 2020
+      time: september 2018 -  july 2020
       company: Vincle
       details: |
-        Desarrollo de microservicios para un CRM del sector hipermercados. Se realizaban tareas de mantenimiento de código, evolutivos y nuevas funcionalidades. Creación de componentes
-        siguiendo una documentación funcional y técnica. Redacción de manuales y wikis. Resolución de bugs. 
+        Development of microservices for a CRM for the hypermarket sector. Code maintenance, evolutionary tasks and new functionalities were carried out. Creation of components
+        following functional and technical documentation. Writing manuals and wikis. Bug resolution. 
           - Spring Boot
           - Hibernate
           - Sql Server
@@ -113,34 +113,34 @@ experiences:
           - Javascript / Typescript
           - Angular
           - jQuery
-          - Seguimiento con Agile
+          - Agile follow-up
           - Redmine
 
-    - role: Practicas programación
-      time: octubre 2017 - marzo 2018
+    - role: Programming practices
+      time: october 2017 - march 2018
       company: Binsa Software
       details: |
-        Mantenimiento de código en C# y Android. Soporte técnico a clientes, subidas de nuevas versiones de software, redacción de manuales, retoque de impresos con
-        Crystal Reports. Maquetación con Windows Forms
+        Maintenance of C# and Android code. Technical support to clients, uploading of new software versions, writing of manuals, retouching of printed material using
+        Crystal Reports. Layout with Windows Forms
           - C#
           - Android Studio
           - Crystal Reports
           - SQL Server
           - Windows Forms
 
-    - role: Técnico de medio ambiente
-      time: octubre 2016 - mayo 2017
-      company: Ayuntamiento de Sabadell
+    - role:  Environmental technician
+      time: october 2016 - may 2017
+      company: Sabadell City Council
       details: |
-        Labores de soporte a técnicos superiores, como modificación de planos en AutoCAD, el análisis de consumos energéticos del ayuntamiento a través del software de gestión
-        Gemweb, pruebas de iluminación con mediciones de lumens, supervisión en obras de renovación de iluminación y redacción de informes sobre ahorro en edicios públicos.
+        Support work for senior technicians, such as modification of AutoCAD drawings, analysis of the council's energy consumption through the Gemweb management software, lighting tests with lumens measurements, supervision of lighting renovation works and drafting reports on savings in public buildings.
+        Gemweb, lighting tests with lumens measurements, supervision of lighting renovation works and drafting of reports on savings in public buildings.
           - AutoCAD
           - Gemweb
 
 projects:
-    title: Proyectos
+    title: Projects
     intro: >
-      En este apartado listo algunos de mis proyectos. La mayoria son cursos de otros programadores, pruebas de concepto o proyectos de clase. 
+      In this section I list some of my projects. Most of them are courses from other programmers, proofs of concept or class projects. 
     assignments:
       - title: Docker con API-Rest y CI/CD
         link: "https://github.com/adrianCalventos/dockerizeApiRest"
