@@ -91,13 +91,15 @@ education:
           - C
 experiences:
     - role: Backend developer
-      time:  diciembre 2020 - Actual
+      time:  December 2020 - Current
       company: 3Aside
       details: |
-        Desarrollo de microservicios y sistemas medios para cliente final Caixa. Uso de arquitectura ABSIS con componentes en Java.
+        Development of microservices and middleware systems for Caixa end clients. Use of ABSIS architecture with Java components.
           - Oracle SQL
+          - DB2
           - Java
           - jsp
+          - Weblogic
     - role: Backend developer
       time: septiembre 2018 -  julio 2020
       company: Vincle
