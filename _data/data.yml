@@ -1,0 +1,217 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Adrian Calventos Garcia
+    tagline: Backend Developer
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: adriancalventosgarcia@gmail.com
+    phone: 648 551 525
+    #website: blog.webjeda.com #do not add http://
+    linkedin: adriancalventos
+    github: adrianCalventos
+    bitbucket:
+    #twitter: '@adriancalventos'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+
+    languages:
+      - idiom: English
+        level: Intermedio
+
+      - idiom: Catalan
+        level: Native
+
+      - idiom: Spanish
+        level: Native
+
+    interests:
+      - item: videojuegos
+        link:
+
+      - item: literatura fantastica
+        link:
+      
+      - item: dibujo
+        link:
+
+
+career-profile:
+    title: Profile
+    summary:  |
+     Graduated in Environmental Sciences by the Universitat Autònoma de Barcelona and programmer. My multidisciplinary experience in the environmental field prepares me to assume positions that require a cross-disciplinary 
+      prepared me to assume positions that require a transversal vision of a company or entity in its relationship with the environment.
+      My experience as a programmer allows me to assume tasks of development of applications and services. 
+    
+      I am able to understand the business involved in the solutions to be applied and I adapt quickly to the technologies and methodologies applied in my position.
+
+
+education:
+
+    - degree: Ingenieria Informática
+      university: Universitat Oberta de Catalunya
+      time: 2019 - Actual
+      details: |
+       Estudios compaginados con el desempeño de mi trabajo como programador. El objetivo de estos estudios es fortalecerme como programador, alcanzar puestos de mayor responsabilidad
+       y tener una visión más amplia del proceso de desarrollo de software. 
+          - Programación en ensamblador
+          - Lógica
+          - Ingenieria del software
+
+    - degree: Grado en Ciencias Ambientales
+      university: Universitat Autònoma de Barcelona
+      time: 2011 - 2015
+      details: |
+       Grado multidisciplinar donde se estudian asignaturas tales como la física nuclear, la quimica, la edafologia, geologia, estadística, economia o derecho, siempre enfocadas 
+       en el cuidado y defensa del medio ambiente. 
+          - Física
+          - Estadística
+          - Matemáticas
+          - Derecho
+    - degree: Grado superior en Desarrollo de aplicaciones multiplataforma
+      university: Institut Sabadell
+      time: 2016 - 2018
+      details: |
+        Estudios enfocados en el desarrollo y mantenimiento de aplicaciones. Se desarrollaron apps en Android, páginas web y aplicaciones de escritorio. Los estudios tenian como objetivo
+        formar a desarrolladores en las bases de la programación.
+          - Oracle SQL
+          - MongoDB
+          - Curso de introducción SAP
+          - Laravel
+          - Ionic
+          - Android Developer
+          - C
+experiences:
+    - role: Backend developer
+      time:  diciembre 2020 - Actual
+      company: 3Aside
+      details: |
+        Desarrollo de microservicios y sistemas medios para cliente final Caixa. Uso de arquitectura ABSIS con componentes en Java.
+          - Oracle SQL
+          - Java
+          - jsp
+    - role: Backend developer
+      time: septiembre 2018 -  julio 2020
+      company: Vincle
+      details: |
+        Desarrollo de microservicios para un CRM del sector hipermercados. Se realizaban tareas de mantenimiento de código, evolutivos y nuevas funcionalidades. Creación de componentes
+        siguiendo una documentación funcional y técnica. Redacción de manuales y wikis. Resolución de bugs. 
+          - Spring Boot
+          - Hibernate
+          - Sql Server
+          - Git
+          - Javascript / Typescript
+          - Angular
+          - jQuery
+          - Seguimiento con Agile
+          - Redmine
+
+    - role: Practicas programación
+      time: octubre 2017 - marzo 2018
+      company: Binsa Software
+      details: |
+        Mantenimiento de código en C# y Android. Soporte técnico a clientes, subidas de nuevas versiones de software, redacción de manuales, retoque de impresos con
+        Crystal Reports. Maquetación con Windows Forms
+          - C#
+          - Android Studio
+          - Crystal Reports
+          - SQL Server
+          - Windows Forms
+
+    - role: Técnico de medio ambiente
+      time: octubre 2016 - mayo 2017
+      company: Ayuntamiento de Sabadell
+      details: |
+        Labores de soporte a técnicos superiores, como modificación de planos en AutoCAD, el análisis de consumos energéticos del ayuntamiento a través del software de gestión
+        Gemweb, pruebas de iluminación con mediciones de lumens, supervisión en obras de renovación de iluminación y redacción de informes sobre ahorro en edicios públicos.
+          - AutoCAD
+          - Gemweb
+
+projects:
+    title: Proyectos
+    intro: >
+      En este apartado listo algunos de mis proyectos. La mayoria son cursos de otros programadores, pruebas de concepto o proyectos de clase. 
+    assignments:
+      - title: Docker con API-Rest y CI/CD
+        link: "https://github.com/adrianCalventos/dockerizeApiRest"
+        tagline: "Docker con una API-Rest con NodeJs para el Backend, BBDD MongoDB y react para el frontend. Se desplegará con Heroku"
+
+      - title: Blog en laravel
+        link: "https://github.com/adrianCalventos/blog_laravel"
+        tagline: "Proyecto de PHP con framework laravel creado para clase. Esta organizado con estructura MVC y se presenta como un blog con login y posibilidad de crear nuevas entradas, editar y borrar."
+
+      - title: API-Rest Sencilla
+        link: "https://github.com/adrianCalventos/apiRest-with-node-express"
+        tagline: "App de libros que consiste en una API-Rest."
+
+      - title: Aplicacion en Spring Boot
+        link: "https://github.com/adrianCalventos/spring-bookApiRest-"
+        tagline: "Aplicación API-Rest con mapeo en hibernate, repositories de Spring para obtener entidades, una entidad DTO que devolver a frontend con su casteo en el endpoint. "
+
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Tecnologias &amp; competencias
+
+    toolset:
+      - name: Python
+        level: 20%
+
+      - name: Js & TS
+        level: 50%
+
+      - name: Angular
+        level: 30%
+
+      - name: Java
+        level: 70%
+
+      - name: Spring
+        level: 50%
+
+      - name: node
+        level: 10%
+        
+      - name: Hibernate
+        level: 60%
+
+      - name: Docker
+        level: 20%
+      
+      - name: Oracle Sql
+        level: 70%
+            
+      - name: MongoDB
+        level: 20%
+
+footer: >
+   
