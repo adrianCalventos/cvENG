@@ -25,7 +25,7 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Intermedio
+        level: Intermediate
 
       - idiom: Catalan
         level: Native
@@ -34,13 +34,13 @@ sidebar:
         level: Native
 
     interests:
-      - item: videojuegos
+      - item: videogames
         link:
 
-      - item: literatura fantastica
+      - item: fantasy literature
         link:
       
-      - item: dibujo
+      - item: drawing
         link:
 
 
@@ -56,32 +56,32 @@ career-profile:
 
 education:
 
-    - degree: Ingenieria Informática
+    - degree: Computer Engineering
       university: Universitat Oberta de Catalunya
-      time: 2019 - Actual
+      time: 2019 - Current
       details: |
-       Estudios compaginados con el desempeño de mi trabajo como programador. El objetivo de estos estudios es fortalecerme como programador, alcanzar puestos de mayor responsabilidad
-       y tener una visión más amplia del proceso de desarrollo de software. 
-          - Programación en ensamblador
-          - Lógica
-          - Ingenieria del software
+       Studies combined with my work as a programmer. The aim of these studies is to strengthen myself as a programmer, to reach positions of greater responsibility
+       and to have a broader vision of the software development process. 
+          - Assembler programming
+          - Logic
+          - Software engineering
 
-    - degree: Grado en Ciencias Ambientales
+    - degree: Degree in Environmental Sciences
       university: Universitat Autònoma de Barcelona
       time: 2011 - 2015
       details: |
-       Grado multidisciplinar donde se estudian asignaturas tales como la física nuclear, la quimica, la edafologia, geologia, estadística, economia o derecho, siempre enfocadas 
-       en el cuidado y defensa del medio ambiente. 
+       Multidisciplinary degree where subjects such as nuclear physics, chemistry, edaphology, geology, statistics, economics or law are studied, always focused on the care and defence of the environment. 
+       on the care and defence of the environment. 
           - Física
           - Estadística
           - Matemáticas
           - Derecho
-    - degree: Grado superior en Desarrollo de aplicaciones multiplataforma
+    - degree: Higher Level Training Cycle in Multiplatform Application Development
       university: Institut Sabadell
       time: 2016 - 2018
       details: |
-        Estudios enfocados en el desarrollo y mantenimiento de aplicaciones. Se desarrollaron apps en Android, páginas web y aplicaciones de escritorio. Los estudios tenian como objetivo
-        formar a desarrolladores en las bases de la programación.
+        Studies focused on the development and maintenance of applications. Android apps, web pages and desktop applications were developed. The studies were aimed at
+        to train developers in the basics of programming.
           - Oracle SQL
           - MongoDB
           - Curso de introducción SAP
